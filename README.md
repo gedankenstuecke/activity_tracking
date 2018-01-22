@@ -7,3 +7,6 @@ Open Humans.
 
 For Healthkit it is based on the exports that you will get from Open Humans through the HealthKit integration. 
 Due to a bug in the HealthKit exporter that renders timestamps unusable these data aren't fully usable yet.
+
+## Contributors & Acknowledgements 🎉
+- [@koleosfuscus](https://github.com/koleosfuscus) 
